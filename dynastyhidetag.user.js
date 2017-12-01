@@ -5,8 +5,8 @@
 // @version     1.0
 // @grant       none
 // @author      cyricc
-// @downloadURL https://github.com/luejerry/dynasty-taghider/raw/master/dynastyhidetag.js
-// @updateURL   https://github.com/luejerry/dynasty-taghider/raw/master/dynastyhidetag.js
+// @downloadURL https://github.com/luejerry/dynasty-taghider/raw/master/dynastyhidetag.user.js
+// @updateURL   https://github.com/luejerry/dynasty-taghider/raw/master/dynastyhidetag.user.js
 // ==/UserScript==
 
 (function () {
